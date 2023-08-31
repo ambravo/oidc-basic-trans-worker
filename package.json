@@ -2,7 +2,7 @@
   "name": "oidc-basic-trans-worker",
   "version": "0.0.1",
   "devDependencies": {
-    "wrangler": "2.0.23"
+    "wrangler": "2.20.1"
   },
   "private": true,
   "scripts": {
